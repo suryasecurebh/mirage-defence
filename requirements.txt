@@ -1,0 +1,30 @@
+# NeuroHoneypot Requirements
+# Install with: pip install -r requirements.txt
+
+# Web frameworks
+Flask>=3.0.0
+Werkzeug>=3.0.0
+
+# HTTP client
+requests>=2.31.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Dashboard
+streamlit>=1.29.0
+
+# Terminal colors (for alerts)
+colorama>=0.4.6
+
+# Optional: Deep Learning (for neural network anomaly detection)
+# Uncomment if you want to use TensorFlow:
+# tensorflow>=2.15.0
+
+# Additional utilities
+python-dateutil>=2.8.0
+
